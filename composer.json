@@ -1,0 +1,15 @@
+{
+  "name": "writeme/module-installer",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "RY",
+      "email": "ruslan.yesenovski@gmail.com"
+    }
+  ],
+  "require": {
+    "writeme/module-core": "dev-master"
+  }
+}
